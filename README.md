@@ -32,9 +32,9 @@ Road: https://assetstore.unity.com/packages/3d/environments/roadways/grass-road-
 
 Potion: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-treasure-pack-lite-80898
 
-Fruits:https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249
+Fruits: https://assetstore.unity.com/packages/3d/props/food/3d-props-adorable-foods-31249
 
-Audio:https://freesound.org/
+Audio: https://freesound.org/
 
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
 
