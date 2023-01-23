@@ -11,7 +11,9 @@ and have enough strength to complete the mission. Most importantly they must col
 to find the key to rescue their chicken friends. This game was developed in Unity using free assets, while the
 main character mesh and animation was created in Blender.
 
-A game developed as a project for the course: Computer Games Software Technology at the University of Cyprus in 2021.
+A game developed as a project for the course: 
+
+Computer Games Software Technology at the University of Cyprus in 2021.
 
 Game Demo Recording: 
 ---------------------
